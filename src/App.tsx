@@ -1,7 +1,7 @@
+import { UseCallback } from './components/UseCallbackComponent'
+import { UseMemo } from './components/UseMemoComponent'
 
 import './App.css'
-import { UseCallback } from './components/UseCallback'
-import { UseMemo } from './components/useMemo'
 
 function App() {
 
